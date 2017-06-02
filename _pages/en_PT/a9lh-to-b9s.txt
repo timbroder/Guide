@@ -11,11 +11,11 @@ All future releases of Luma3DS will only be made in the `.firm` format, which wi
 If you have a PIN enabled on Luma3DS, SafeB9SInstaller will give you an "OTP Crypto Fail" error unless you temporarily disable your PIN (you can re-enable the PIN after the update).
 {: .notice--warning}
 
-To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on this page, you will need a torrent client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
+To be usin' th' [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on 'tis page, ye gunna be needin' a torrent client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
 {: .notice--success}
 
 {% capture notice-1 %}
-There have been reports of a wave of bans being handed out to CFW users by Nintendo. To protect yourself, please do the following steps before starting this guide:
+There have been reports 'o a wave 'o bans bein' handed out to CFW users by Nintendo. Fer ye protection, please be followin' these steps before startin' 'tis guide:
 
 1. Go to System Settings, then "Internet Settings", then "SpotPass", then "Sending of System Information"
 1. Disable the "Sending of System Information" option
